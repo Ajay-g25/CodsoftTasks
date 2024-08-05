@@ -1,1 +1,2 @@
-- This repository contains the task files required for the completion of Codsoft C++ internship. 
+- This repository contains the task files required for the completion of Codsoft C++ internship.
+- you can find the task description in the pdf file that I've included in this repository
